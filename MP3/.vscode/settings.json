@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "console.C": "cpp",
+        "cont_frame_pool.H": "cpp",
+        "kernel.C": "cpp",
+        "simple_keyboard.C": "cpp",
+        "cont_frame_pool.C": "cpp",
+        "page_table.C": "cpp",
+        "exceptions.C": "cpp",
+        "interrupts.C": "cpp",
+        "kernel copy.C": "cpp"
+    }
+}
